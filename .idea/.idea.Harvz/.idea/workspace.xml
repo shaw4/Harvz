@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd7f459-3889-4d63-97ce-796c0ec36fda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Harvz/bin/Debug/config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Harvz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Harvz/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Harvz/Bot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/Bot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607084500083</updated>
-      <workItem from="1607084503742" duration="1110000" />
+      <workItem from="1607084503742" duration="1810000" />
     </task>
     <servers />
   </component>
