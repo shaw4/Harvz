@@ -15,7 +15,7 @@ namespace Harvz
         /// <summary>
         /// Instance to this structure and its functions.
         /// </summary>
-        private static readonly Bot instance = new();
+        private static readonly Bot instance;
 
         /// <summary>
         /// File name for the config.
@@ -66,6 +66,7 @@ namespace Harvz
             client = new DiscordSocketClient();
             await client.LoginAsync(0, content["token"].ToString());
             await client.StartAsync();
+            // TODO: Setup basic orders.
             Console.WriteLine("<!> Bot started!");
         }
     }
