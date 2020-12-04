@@ -4,7 +4,15 @@
     <projectFile>Harvz/Harvz.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd7f459-3889-4d63-97ce-796c0ec36fda" name="Default Changelist" comment="" />
+    <list default="true" id="5cd7f459-3889-4d63-97ce-796c0ec36fda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Harvz/bin/Debug/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Harvz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Harvz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harvz/Bot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/Bot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/bin/Debug/Harvz.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Harvz/obj/Debug/Harvz.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +28,17 @@
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lBxtMw3QuUm72EIMYR2W6DtJ6C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34976044" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -59,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607084500083</updated>
-      <workItem from="1607084503742" duration="403000" />
+      <workItem from="1607084503742" duration="1110000" />
     </task>
     <servers />
   </component>
@@ -77,6 +90,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
